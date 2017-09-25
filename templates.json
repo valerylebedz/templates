@@ -122,7 +122,7 @@
             "directory": "ApexClass/ITrigger.cls",
             "extension": ".cls",
             "description": "ITrigger"
-        }
+        },
         "Triggers Implementation": {
             "directory": "ApexClass/Triggers Implementation.cls",
             "extension": ".cls",
